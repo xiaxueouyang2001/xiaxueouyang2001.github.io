@@ -1,0 +1,2 @@
+请将你的简历 PDF 文件放到 assets 目录，并命名为 cv.pdf。
+然后在 index.html 中将 assets/cv-placeholder.txt 替换为 assets/cv.pdf。
